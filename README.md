@@ -4,8 +4,8 @@
   <a href="https://satish-chauhan.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Visit-6c63ff?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
-  <a href="mailto:sschauhan@quark.com">
-    <img src="https://img.shields.io/badge/Email-sschauhan%40quark.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:satishkc2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-satishkc2000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 - 💼 Software Developer at **Quark**
 - 🔭 Currently building and exploring new things
 - 🌐 Portfolio: [satish-chauhan.github.io](https://satish-chauhan.github.io)
-- 📫 Reach me at: sschauhan@quark.com
+- 📫 Reach me at: satishkc2000@gmail.com
 
 ---
 
