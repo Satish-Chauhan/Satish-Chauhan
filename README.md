@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Satish Chauhan 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Software Engineer · 3+ yrs · Mohali, India</b><br/>
+  <b>Full-Stack Software Engineer · 3+ yrs · Mumbai, India</b><br/>
   <sub>TypeScript · Angular · React · Next.js · NestJS · Java Spring Boot · AWS · Azure</sub>
 </p>
 
