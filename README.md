@@ -97,6 +97,41 @@
 
 <table>
   <tr>
+    <td width="60">🚗</td>
+    <td>
+      <b>Rent Wheeler</b> &nbsp;
+      <a href="https://rentwheeler.com">
+        <img src="https://img.shields.io/badge/Live-rentwheeler.com-22c55e?style=flat-square&logo=googlechrome&logoColor=white" alt="Live" />
+      </a>
+      <br/>
+      Production-grade PWA car rental marketplace digitizing the self-drive rental industry. Real-time availability, multi-image carousels, transparent pricing, and Razorpay-backed token payments with webhook-driven booking sync. Operator dashboard with per-vehicle revenue analytics, fleet & station management, and review moderation — turning manual ops into a data-driven system.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="60">🔍</td>
+    <td>
+      <b>Uniwik</b> &nbsp;
+      <a href="https://uniwik.com">
+        <img src="https://img.shields.io/badge/Live-uniwik.com-6c63ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Live" />
+      </a>
+      <br/>
+      Trust layer for D2C ecommerce — protects consumers from fraudulent stores while helping brands cut RTO losses and fake orders. Multi-step KYC onboarding, secure document handling with AWS S3, Shopify OAuth 2.0 integration, and JWT auth. Gives legitimate brands a verified badge; gives shoppers confidence.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
     <td width="60">🧠</td>
     <td>
       <b>LeetCode Tracker</b> &nbsp;
