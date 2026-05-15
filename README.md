@@ -93,6 +93,14 @@
 
 ---
 
+### 🧩 Projects
+
+| Project | Description |
+|---------|-------------|
+| [**LeetCode Tracker**](https://satish-chauhan.github.io/leet-code-tracker/) | Personal offline-first app to log and track LeetCode problem-solving progress — built with vanilla HTML/CSS/JS, runs entirely in the browser |
+
+---
+
 ### GitHub Stats
 
 <p align="center">
