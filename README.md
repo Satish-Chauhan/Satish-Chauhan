@@ -143,7 +143,7 @@
         <img src="https://img.shields.io/badge/Live-Demo-6c63ff?style=flat-square&logo=githubpages&logoColor=white" alt="Live Demo" />
       </a>
       <br/>
-      Track your LeetCode grind without leaving the browser. Log problems, filter by difficulty & topic, mark status, and watch your streak grow — all stored locally, zero backend, zero login. Built with vanilla HTML/CSS/JS.
+      Master these problems and you've essentially mastered the interviews, every pattern, edge case, and algorithm you'll ever face in the real world traces back to one of these fundamentals.
     </td>
   </tr>
 </table>
