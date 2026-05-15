@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Satish Chauhan 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Software Engineer · 3+ yrs · Mumbai, India</b><br/>
+  <b>Full-Stack Software Engineer · 4+ yrs · Mumbai, India</b><br/>
   <sub>TypeScript · Angular · React · Next.js · NestJS · Java Spring Boot · AWS · Azure</sub>
 </p>
 
@@ -126,7 +126,7 @@
       <br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon&logoColor=white" />
       <img src="https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white" />
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
     </td>
